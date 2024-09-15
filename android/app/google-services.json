@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217432727337",
+    "project_id": "beautymaster-c9035",
+    "storage_bucket": "beautymaster-c9035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217432727337:android:edc4c74e74a64f01b66138",
+        "android_client_info": {
+          "package_name": "com.ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwi1frEBoa6yfUz7GpAx67ElBR0jSsnr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
